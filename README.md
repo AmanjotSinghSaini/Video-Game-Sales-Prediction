@@ -1,6 +1,6 @@
 # Video Game Sales Prediction
 
-This project uses machine learning models to predict whether a video game will be a commercial *hit* based on metadata like platform, genre, and publisher. The dataset used is the popular [Video Game Sales dataset](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings), and the classification goal is to determine if a game has **Global Sales ≥ 1 million units**.
+This project uses machine learning models to predict whether a video game will be a commercial *hit* based on metadata like platform, genre, and publisher. The dataset used is the popular [Video Game Sales dataset](https://www.kaggle.com/datasets/gregorut/videogamesales), and the classification goal is to determine if a game has **Global Sales ≥ 1 million units**.
 
 ## Dataset Overview
 
